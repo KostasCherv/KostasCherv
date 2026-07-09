@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Kostas 👋</h1>
 
 <p align="center">
-  <b>Senior AI Software Engineer • Agentic Systems • LLMOps • Web3 • Finance</b>
+  <b>Senior AI Backend Engineer • Agentic AI • LLMOps • Cloud Native Systems</b>
 </p>
 
 <p align="center">
